@@ -3,6 +3,8 @@ During my internship at Microsoft, I mentored a group of 4 into building a voice
 ## Live
 https://web-ai-interviews.vercel.app/
 
+Azure App service endpoint temporarily down!
+
 ## Architecture
 
 ![image](https://github.com/ralphr123/ai-interviews-placeholder/assets/29685125/f7c660de-2e41-4677-94ef-a72a41e6d00d)
