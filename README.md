@@ -18,6 +18,6 @@ Frontend SDK (npm module) for web apps to integrate AI interview bot.
 https://github.com/ai-interviews/ai-interview-sdk
 
 ## Server Repo
-Server (called by the SDK) that hosts the AI and speech service functionality for the SDK
+Server (called by the SDK) that hosts the AI and speech service functionality for the SDK.
 
 https://github.com/ai-interviews/sdk-server
