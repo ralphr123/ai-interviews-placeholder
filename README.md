@@ -1,4 +1,4 @@
-During my internship at Microsoft, I lead a group of 4 into building a voice bot (with Node.js and GPT-3.5) that conducts practice interviews.
+During my internship at Microsoft, I mentored a group of 4 into building a voice bot (with Node.js and GPT-3.5) that conducts practice interviews.
 
 ## Live
 https://web-ai-interviews.vercel.app/
